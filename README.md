@@ -1,2 +1,0 @@
-# Experiment
-Simple Project Repository
